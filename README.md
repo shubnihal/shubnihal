@@ -12,6 +12,10 @@ I help startups and businesses build scalable SaaS products, web apps, and mobil
 ![](https://nirzak-streak-stats.vercel.app/?user=shubnihal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubnihal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+ 
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shubnihal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
